@@ -1,5 +1,5 @@
 
-# Exp 5 Experimental verification of frequency response of Digital fiber optic link
+Exp 5 Experimental verification of frequency response of Digital fiber optic link
 # Digital Fiber Optic Link Analysis (600nm)
 
 ## AIM
@@ -68,27 +68,23 @@ The photodiode converts the detected light into a photocurrent. With the aid of 
 
 
 ## BLOCK DIAGRAM
+![WhatsApp Image 2026-03-26 at 7 25 57 PM](https://github.com/user-attachments/assets/1c4abfb8-6c70-40f9-9676-589b41b93326)
 
-<img width="376" height="273" alt="image" src="https://github.com/user-attachments/assets/bf300b0a-a0a7-4465-9b9d-9585c0c29362" />
 
 ---
 
 ## TABULATION  
-**Transmission through Digital Link**
 
-<img width="1516" height="1202" alt="image" src="https://github.com/user-attachments/assets/77b940c7-0cf9-4e05-a50e-f8f0517e9088" />
+![WhatsApp Image 2026-03-26 at 7 17 43 PM](https://github.com/user-attachments/assets/f20c4da6-ce61-4113-9c81-99b0a8b55500)
 
 ---
 
 ## MODEL GRAPH
+![WhatsApp Image 2026-03-26 at 7 26 04 PM](https://github.com/user-attachments/assets/47b4572f-299a-4565-a9b1-1c4a52ff6a05)
+![WhatsApp Image 2026-03-26 at 7 26 11 PM](https://github.com/user-attachments/assets/982ada3d-ac5b-4bf7-a48e-609aa9c9298d)
 
-<img width="1041" height="520" alt="image" src="https://github.com/user-attachments/assets/f7740597-382b-4804-910f-482b9882ebde" />
 
 ---
-## GRAPH
-<img width="1600" height="1292" alt="image" src="https://github.com/user-attachments/assets/698052d9-cc23-4a15-96a0-ac315b954a98" />
-
 
 ## RESULT
-
 The digital fiber optic link successfully transmits signals up to a certain frequency limit, beyond which signal distortion occurs, indicating the bandwidth limitation of the system.
